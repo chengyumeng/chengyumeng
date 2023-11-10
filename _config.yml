@@ -18,8 +18,8 @@ url: http://chengyumeng.github.io
 rss_url: 
 
 # gavatar头像及Favicon
-gavatar: /public/upload/gavatar/gavatar.jpg
-favicon: /public/upload/gavatar/favicon.ico
+gavatar: https://avatars.githubusercontent.com/u/15684846?s=400&u=25ea22b77649279ed028173d698787e86b9ce52d&v=4
+favicon: https://avatars.githubusercontent.com/u/15684846?s=400&u=25ea22b77649279ed028173d698787e86b9ce52d&v=4
 
 # google analytics 设置
 google_analytics_tracking_id: UA-108442533-1
